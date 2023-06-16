@@ -24,6 +24,10 @@ gdscript/warnings/return_value_discarded=false
 window/subwindows/embed_subwindows=false
 window/vsync/vsync_mode=0
 
+[dotnet]
+
+project/assembly_name="Voxelscaper"
+
 [gui]
 
 theme/custom="res://src/new_theme.tres"
